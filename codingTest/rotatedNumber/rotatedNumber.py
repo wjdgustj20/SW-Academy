@@ -1,4 +1,4 @@
-def find(n): # 1, 6, 8, 9, 0 -> 1, 9, 8, 6, 0
+def find(n):
     answer = 0
     if n % 2 == 0:
         k = int(n / 2)
