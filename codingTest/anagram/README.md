@@ -18,7 +18,7 @@ listen silent
 True
 ```
 
-## 입출력 예시2
+## 입출력 예시 2
 ### 입력 예시
 ```
 knee keen
