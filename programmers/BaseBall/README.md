@@ -4,6 +4,7 @@
       - 게임의 룰을 이해
 
           ![게임룰](https://user-images.githubusercontent.com/90139789/211962684-9252d4dd-c1c4-4a4d-9ec1-5ad92c31f52f.jpg)
+          <img src="" width = 
 
       - 동작 환경, 데이터이 범위
           - 3자리 숫자 사용 (확장 가능)
