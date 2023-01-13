@@ -25,3 +25,6 @@ Not even close
 Perfect
 Not even close
 ```
+#### 예시 설명
+* 피보나치 수열: $0,\ 1,\ 1,\ 2,\ 3,\ 5,\ 8,\ 13$
+* $F_7 = 13$
