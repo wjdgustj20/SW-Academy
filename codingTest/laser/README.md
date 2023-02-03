@@ -33,7 +33,8 @@
 ```
 #### 예시 설명
 <img width="470" src="https://user-images.githubusercontent.com/90139789/216263043-38c339fe-b67f-46df-833a-380b9800ea28.png">   
-$(4,\ 4)$ 에 거울을 위와 같이 설치하면 된다.
+
+* $(4,\ 4)$ 에 거울을 위와 같이 설치하면 된다.
 
 ## 입출력 예시 3
 ### 입력 예시
@@ -46,4 +47,5 @@ $(4,\ 4)$ 에 거울을 위와 같이 설치하면 된다.
 ```
 #### 예시 설명
 <img width="470" src="https://user-images.githubusercontent.com/90139789/216263048-0d74d95e-f3a9-4d14-8dba-b8b081d0a8b4.png">   
+
 * 거울을 설치하지 않고 물체를 맞힐 수 있다.
